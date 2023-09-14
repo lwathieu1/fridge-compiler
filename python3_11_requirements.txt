@@ -1,0 +1,5 @@
+matplotlib==3.7.2
+numpy==1.25.1
+pandas==2.0.3
+tqdm==4.65.0
+z3_solver==4.12.2.0
